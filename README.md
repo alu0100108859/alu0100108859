@@ -1,12 +1,12 @@
+__Sobre mi__
+* Hijo de Odin
+* Principe de Asgard
+  * Dios de las Mentiras
+  * Proveedor de regalos
 
-* Ingeneriero Informático
-* Experiencia
-  * 10 años como analista programador en SHIDIX
-  * 2 meses como analista programador en Obecan _( Funcatra )_
-
-* Otra Experencia
-  * Extra en la serie la Fundación
-  * Extra en la pelicula Bourne
+* Otra Experencias
+  * Aspirante a gobernador de los 9 Reinos
+  * A veces ayudo a mi hermano Thor
 
 __Lugar de Nacimiento__
 
