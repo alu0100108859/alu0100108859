@@ -8,42 +8,11 @@
   * Extra en la serie la Fundación
   * Extra en la pelicula Bourne
 
-<img src="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JPG"  width="300" height="200" />
+<img src="https://th.bing.com/th/id/R.6e06ec58731040d9fb71d2a891aa0242?rik=HouY4MP8F%2b84%2fQ&riu=http%3a%2f%2fcdn1.radiosantafe.com%2fwp-content%2fuploads%2f2014%2f07%2fAsgard.jpg&ehk=H3dzMGhB8H0e%2bDMwjapbZHAM6wogiKNUXIKr3oEeY9Q%3d&risl=&pid=ImgRaw&r=0"  width="300" height="200" />
 
 * [Instagram](https://www.instagram.com/nestortf/)
 
 __Frases__
 
-«Andando con sus patitas mojadas,  
-el gorrión  
-por la terraza de madera»
+> Nacisteis para ser gobernados
 
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
-
-__Código Inline__
-
-`Este` es un codigo inline block! <code>Y este</code> es otro!
-
-__Colores__
-
-```javascript
-function getfocus()
-    {
-            document.getElementById('w3s').focus();
-    }
-    
-    function losefocus()
-    {
-            document.getElementById('w3s').blur();
-    }
-```
-__Tabla y Emoji__
-
-| Emoji | Description |
-| --- | ----------- |
-| :grinning: | Smile |
-| :angry: | Angry |
-
-__Añadir fichero__
-
-* [Master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-nestor-gonzalez-lopez-alu0100108859/blob/main/master.md)
