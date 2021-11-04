@@ -31,3 +31,5 @@ __Frases__
 
 > Nacisteis para ser gobernados
 
+<a href="https://www.youtube.com/watch?v=_3CZExnn8MI" title="Mi mejor momento"><img src="{image-url}" alt=Discurso" /></a>
+
