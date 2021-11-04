@@ -10,7 +10,7 @@ __Sobre mi__
 
 
 * Otra Experencias
-  * Aspirante a gobernador de los 9 Reinos
+  * Aspirante a Rey de los 9 Reinos
   * A veces ayudo a mi hermano Thor
 
 __Lugar de Nacimiento__
